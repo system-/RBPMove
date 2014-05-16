@@ -1,0 +1,8 @@
+## Title: RPBMove
+## Title-zhCN: BOSS能量条移动工具
+## Version: 1.0
+## Author: 他喵的
+## Interface: 50400
+
+
+RPBMove.lua
